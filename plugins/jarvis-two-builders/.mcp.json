@@ -2,7 +2,7 @@
   "mcpServers": {
     "jarvis": {
       "type": "http",
-      "url": "https://jarvis-management-danyel.danyel-zisman.chatgpt.site/mcp",
+      "url": "https://jarvis-management-danyel.danyel-zisman.chatgpt.site/api/mcp",
       "auth": "oauth"
     }
   }

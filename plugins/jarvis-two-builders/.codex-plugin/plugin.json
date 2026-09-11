@@ -1,6 +1,6 @@
 {
   "name": "jarvis-two-builders",
-  "version": "1.1.0+codex.20260911175401",
+  "version": "1.1.0+codex.20260911180516",
   "description": "One shared Jarvis platform for Danyel and Femke, with account-private records and synchronized development changes.",
   "author": {
     "name": "Jarvis Builders"
