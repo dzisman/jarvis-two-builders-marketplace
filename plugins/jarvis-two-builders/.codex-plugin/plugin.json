@@ -1,0 +1,35 @@
+{
+  "name": "jarvis-two-builders",
+  "version": "1.1.0+codex.20260911175401",
+  "description": "One shared Jarvis platform for Danyel and Femke, with account-private records and synchronized development changes.",
+  "author": {
+    "name": "Jarvis Builders"
+  },
+  "homepage": "https://jarvis-management-danyel.danyel-zisman.chatgpt.site",
+  "license": "UNLICENSED",
+  "keywords": [
+    "jarvis",
+    "collaboration",
+    "software-engineering"
+  ],
+  "interface": {
+    "displayName": "Jarvis",
+    "shortDescription": "Build one Jarvis together from two private accounts.",
+    "longDescription": "Connect Danyel and Femke to one shared Jarvis development stream while keeping personal tasks, research, memory, credentials and chat history scoped to the signed-in account.",
+    "developerName": "Jarvis Builders",
+    "category": "Productivity",
+    "capabilities": [
+      "Account-aware Jarvis tools",
+      "Shared module claims",
+      "Synchronized build knowledge"
+    ],
+    "websiteURL": "https://jarvis-management-danyel.danyel-zisman.chatgpt.site",
+    "defaultPrompt": [
+      "Confirm which Jarvis builder I am.",
+      "Check the shared build before we change Jarvis.",
+      "Share this approved lesson with the other builder."
+    ],
+    "brandColor": "#B7F34A"
+  },
+  "mcpServers": "./.mcp.json"
+}
